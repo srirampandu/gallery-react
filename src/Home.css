@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bgimage {
+  background-image: url(./Scene.jpg);
+  height: 120vh;
+  width: 100%;
+  justify-content: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+label {
+  display: block;
+  font-weight: bold;
+}
+
+.search {
+  text-align: center;
+  justify-content: center;
+  margin: 80px;
+}
+
+.navtype {
+  display: flex;
+  justify-content: space-between;
+}
+.brandname {
+  align-items: flex-start;
+  font-size: 70px;
+  font-family: -apple-system;
+  font-weight: 600;
+  color: white;
+}
+.authentication {
+  align-items: flex-end;
+  justify-content: space-between;
+  font-size: 25px;
+  font-family: Arial;
+}
+.b1 {
+  width: 100px;
+  background-color: green;
+  border-radius: 5px;
+  color: white;
+  border: 2px solid green;
+  margin: 20px;
+}
+.b2 {
+  width: 100px;
+  background-color: green;
+  border-radius: 5px;
+  color: white;
+  border: 2px solid green;
+  margin: 20px;
+}
+.b3 {
+  width: 100px;
+  background-color: green;
+  border-radius: 5px;
+  color: white;
+  border: 2px solid green;
+  margin: 20px;
+}
+#para {
+  color: white;
+  font-weight: 500;
+  position: relative;
+  top: 250px;
+}
+
+#inputText {
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid white;
+}
+
+.categories {
+  height: 40px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 2px solid darkslateblue;
+  background-color: darkslateblue;
+  padding: 5px;
+  color: black;
+}
+#b4 {
+  width: 100px;
+  background-color: green;
+  border-radius: 5px;
+  border: 2px solid green;
+  font-size: 20px;
+  height: 40px;
+}

@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "rain",
+      "img": "./rain.jpg",
+      "vid": "./rain.mp4"
+    },
+
+    {
+      "id": 2,
+      "name": "crackers",
+      "img": "./crackers.jpg",
+      "vid": "./crackers.mp4"
+    },
+    {
+      "id": 3,
+      "name": "animals",
+      "img": "./animals.jpg",
+      "vid": "./animals.mp4"
+    },
+    {
+      "id": 4,
+      "name": "office",
+      "img": "./office.jpg",
+      "vid": "./office.mp4"
+    },
+    {
+      "id": 5,
+      "name": "beach",
+      "img": "./beach.jpg",
+      "vid": "./beach.mp4"
+    },
+    {
+      "id": 6,
+      "name": "waterfalls",
+      "img": "./waterfalls.jpg",
+      "vid": "./waterfalls.mp4"
+    },
+    {
+      "id": 7,
+      "name": "sun",
+      "img": "./sun.jpg",
+      "vid": "./sun.mp4"
+    },
+    {
+      "id": 8,
+      "name": "river",
+      "img": "./river.jpg",
+      "vid": "./river.mp4"
+    },
+    {
+      "id": 9,
+      "name": "tower",
+      "img": "./tower.jpg",
+      "vid": "./tower.mp4"
+    },
+    {
+      "id": 10,
+      "name": "fruits",
+      "img": "./fruits.jpg",
+      "vid": "./fruits.mp4"
+    }
+  ]
+}
